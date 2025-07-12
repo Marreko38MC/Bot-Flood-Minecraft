@@ -1,0 +1,19 @@
+{
+  "name": "mineflayer-bot-panel",
+  "version": "1.0.0",
+  "bin": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "pkg": {
+    "targets": [
+      "node18-win-x64"
+    ]
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "mineflayer": "^4.30.0",
+    "socket.io": "^4.8.1",
+    "socks-proxy-agent": "^8.0.5"
+  }
+}
