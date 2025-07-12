@@ -29,4 +29,4 @@ node server.js
 **(Sinon faite juste cd c:/emplacement/de/votre/dossier , node server.js)**
 
 
-## ( /!\ Je ne suis pas résponsable de son utilisation c'est a des fins éducatives /!\ )
+## ( /!\ Je ne suis pas résponsable de son utilisation est à des fins éducatives /!\ )
