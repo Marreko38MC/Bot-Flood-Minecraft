@@ -23,7 +23,7 @@ Ce petit projet est un lanceur de bot minecraft automatisé que j'ai fait pour "
 ```bash
 git clone https://github.com/Marreko38MC/Bot-Flood-Minecraft.git
 cd Bot-Flood-Minecraft
-node server.js
+node server.js ```
 
 **Sinon faite juste cd c:/emplacement/de/votre/dossier , node server.js**
 
