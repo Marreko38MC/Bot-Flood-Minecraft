@@ -1,10 +1,3 @@
-#  MineBot Explorer (avec Tor)
-
-Bonjours 
-Ce petit projet est un lanceur de bot minecraft automatisé que j'ai fait pour "Lancer des bot" sur un server, en toute discrétion via un proxies **Tor**.
-
----
-
 ## À quoi ça sert ?
 
 - Créer plusieurs bots Minecraft rapidement
@@ -14,9 +7,6 @@ Ce petit projet est un lanceur de bot minecraft automatisé que j'ai fait pour "
 - Voir les logs, messages des joueur / boradcast etc.. en direct.
 
 ---
-
-## Comment ça fonctionne ?
-
 
 **Cloner le repo**
 
@@ -30,5 +20,8 @@ node server.js
 
 **(Sinon faite juste cd c:/emplacement/de/votre/dossier , node server.js)**
 
+**(Lancer tor_controller.bat avant pour activer le proxie)**
 
+---
 ## ( /!\ Je ne suis pas résponsable de son utilisation, il doit être utiliser à des fins "éducatives" /!\ )
+---
