@@ -21,7 +21,7 @@ node server.js
 **(Sinon faite juste cd c:/emplacement/de/votre/dossier , node server.js)**
 
 **(Lancer tor_controller.bat avant pour activer le proxie)**
-d
+
 ---
 ## ( /!\ Je ne suis pas résponsable de son utilisation, il doit être utiliser à des fins "éducatives" /!\ )
 ---
