@@ -18,12 +18,14 @@ cd Bot-Flood-Minecraft
 node server.js
 ```
 
+---
 ## INFO | (Extraire Compressed_Modules avant de commencer un readme vous attend)
-
 
 **(Sinon faite juste cd c:/emplacement/de/votre/dossier , node server.js)**
 
 **(Lancer tor_controller.bat avant pour activer le proxie vous pourrez ensuite lancer run-panel.bat)**
+
+---
 
 
 #### ( /!\ Je ne suis pas résponsable de son utilisation, il doit être utiliser à des fins "éducatives" /!\ )
