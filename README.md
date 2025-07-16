@@ -3,7 +3,7 @@
 - Créer plusieurs bots Minecraft rapidement
 - Les faire se connecter à n'importe quel serveur ( en crack simple ou avec un /register )
 - Utiliser **Tor** pour anonymiser les connexions (proxy `socks5h://127.0.0.1:9050`)
-- Piloter les bots via une interface web
+- Piloter les bots via une interface web (localhost:3000)
 - Voir les logs, messages des joueur / boradcast etc.. en direct.
 
 ---
